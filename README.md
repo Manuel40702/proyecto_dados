@@ -1,3 +1,10 @@
+# Project Dice with Svelte
+
+This project show two dices and changes when click to the button, if two dices is equal show the text win, is a first steps with Svelte. It is built with Svelte + Vite, Bootstrap for design. 
+
+## Preview
+![Preview12](https://github.com/user-attachments/assets/ce325b03-3fa7-4f09-84de-8299f231d85e)
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
