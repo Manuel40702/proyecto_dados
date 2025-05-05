@@ -1,14 +1,14 @@
 <script>
-  let dadoIzquierda = "src/assets/dice1.png";
-  let dadoDerecha = "src/assets/dice1.png";
+  let dadoIzquierda = "/dice1.png";
+  let dadoDerecha = "/dice1.png";
   let numero1 = 1;
   let numero2 = 2;
 
   function tirarDados() {
     numero1 = Math.floor(Math.random() * 6) + 1;
     numero2 = Math.floor(Math.random() * 6) + 1;
-    dadoIzquierda = 'src/assets/dice' + numero1 + '.png'
-    dadoDerecha = 'src/assets/dice' + numero2 + '.png'
+    dadoIzquierda = '/dice' + numero1 + '.png'
+    dadoDerecha = '/dice' + numero2 + '.png'
   }
 </script>
 
